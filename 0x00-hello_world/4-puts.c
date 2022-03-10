@@ -7,7 +7,5 @@
 int main(void)
 {
 	put("/"Programming is like building multiline puzzle");
-
 	Return (0);
-
 }
