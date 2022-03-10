@@ -4,7 +4,7 @@
  *
  * Return: Always 0 : (success)
  */
-int main()
+int main(void)
 {
 	put("/"Programming is like building multiline puzzle");
 
